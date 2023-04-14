@@ -262,4 +262,7 @@
 .is-builder .nav-dropdown.collapsing {
   transition: none !important; }
 
-
+.mbr-section-title mbr-fonts-style mb-3 display-1 h1:hover {
+		-webkit-text-stroke: 4px #FF950A;
+	color: transparent;
+}
